@@ -30,4 +30,3 @@ modaltext[3].innerHTML= `5/ ${monkPlayer.name} = 💛 hp: ${monkPlayer.hp}, 💫
 modaltext[4].innerHTML= `4/ ${berzerkerPlayer.name} = 💛 hp: ${berzerkerPlayer.hp}, 💫 mana: ${berzerkerPlayer.mana}, 🌀 damage: ${berzerkerPlayer.damage}, status: ${berzerkerPlayer.status}`;
 
 
-console.log(modaltext);
