@@ -10,6 +10,6 @@ Chaque tour, pour chaque personnage, tu vas choisir qui attaquer. Le personnage 
 
 < - - -  - - - - - Controls & Touches  - - -  - - - - - >
 - le boutton "**Voir les Stats Joueurs**" permet d'afficher les stats de chaque joeur avant de lancer une partie (ne fonctionne pas pendant..). 
-- le bouton  "**Fight**?", lance une partie de 10 tours sur la console du navigateur! On peut choisir avec les touches **1, 2, 3, 4** des joueurs à affronter, la touche **5** permet de verifier les stats de tous les joueurs. 
+- le bouton  "**Fight**?", lance une partie de 10 tours sur la console du navigateur! On peut choisir avec les touches ** 0, 1, 2, 3, 4** des joueurs à affronter, la touche **5** permet de verifier les stats de tous les joueurs. 
 
 **Bonne partie !**
