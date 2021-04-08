@@ -1,0 +1,58 @@
+
+div .card{
+  margin-left: 30px;
+  box-shadow: 1px 1px 5px 2px grey;
+}
+
+div .card:nth-child(1){
+  animation:  1s infinite alternate slidein ;
+  animation-name: bouncy;
+}
+@keyframes bouncy {
+  from {bottom: 0;} to {bottom: 20px;}
+  
+}
+
+div .card:nth-child(2){
+  animation:  1s infinite alternate slidein ;
+  animation-delay: 600ms;
+  animation-name: bouncy_2;
+}
+
+@keyframes bouncy_2 {
+  from {bottom: 0;} to {bottom: 20px;}
+}
+
+div .card:nth-child(3){
+  animation:  1s infinite alternate slidein ;
+  animation-delay: 1s;
+  animation-name: bouncy_3;
+}
+
+@keyframes bouncy_3 {
+  from {bottom: 0;} to {bottom: 20px;}
+}
+
+div .card:nth-child(4){
+  animation:  1s infinite alternate slidein ;
+  animation-delay: 1.5s;
+  animation-name: bouncy_4;
+}
+
+@keyframes bouncy_4 {
+  from {bottom: 0;} to {bottom: 20px;}
+}
+
+div .card:nth-child(5){
+  animation:  1s infinite alternate slidein ;
+  animation-delay: 2.5s;
+  animation-name: bouncy_5;
+}
+
+@keyframes bouncy_5 {
+  from {bottom: 0;} to {bottom: 20px;}
+}
+
+.card-player-features{
+  font-size: 15px;
+}
