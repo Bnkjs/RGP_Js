@@ -29,5 +29,3 @@ modaltext[2].innerHTML= `3/ ${assassinPlayer.name} = 💛 hp: ${assassinPlayer.h
 modaltext[3].innerHTML= `5/ ${monkPlayer.name} = 💛 hp: ${monkPlayer.hp}, 💫 mana: ${monkPlayer.mana}, 🌀 damage: ${monkPlayer.damage}, status: ${monkPlayer.status}`;
 modaltext[4].innerHTML= `4/ ${berzerkerPlayer.name} = 💛 hp: ${berzerkerPlayer.hp}, 💫 mana: ${berzerkerPlayer.mana}, 🌀 damage: ${berzerkerPlayer.damage}, status: ${berzerkerPlayer.status}`;
 
-
-console.log(modaltext);
