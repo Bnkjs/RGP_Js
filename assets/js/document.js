@@ -28,5 +28,3 @@ modaltext[1].innerHTML= `2/ ${fighterPlayer.name} = 💛 hp: ${fighterPlayer.hp}
 modaltext[2].innerHTML= `3/ ${assassinPlayer.name} = 💛 hp: ${assassinPlayer.hp}, 💫 mana: ${assassinPlayer.mana}, 🌀 damage: ${assassinPlayer.damage}, status: ${assassinPlayer.status}`;
 modaltext[3].innerHTML= `5/ ${monkPlayer.name} = 💛 hp: ${monkPlayer.hp}, 💫 mana: ${monkPlayer.mana}, 🌀 damage: ${monkPlayer.damage}, status: ${monkPlayer.status}`;
 modaltext[4].innerHTML= `4/ ${berzerkerPlayer.name} = 💛 hp: ${berzerkerPlayer.hp}, 💫 mana: ${berzerkerPlayer.mana}, 🌀 damage: ${berzerkerPlayer.damage}, status: ${berzerkerPlayer.status}`;
-
-
